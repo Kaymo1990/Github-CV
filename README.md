@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[Background ](#background) |
+[About me ](#About me) |
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Experience ](#experience) |
@@ -17,14 +17,12 @@
 
 </div>
 
+# About me
+
 I'm an alumnus of [Makers](https://makers.tech/), and a **full-stack Software Engineer**. I have a varied background, having worked most recently within the financial technology sector, as an equity specialist at [Bloomberg](https://www.bloomberg.com/europe/). Working within the financial technology sector is where I had come to learn I had a much stronger affinity towards the technology side of my work. Prior to this I completed the [Teach First leadership development program](https://www.teachfirst.org.uk/). This involved working in an underperforming academy as a science teacher for two years, in order to manage and raise aspirations of the students who come from lower socioeconomic backgrounds. Academically my background is within biological sciences with a MSc in biochemistry and BSc Hons in pharmacology, both from King's College London.
 
 Having a varied professional background, I hope to leverage the different experiences I have gained to support the development of my colleagues, the company and myself.
 
-
-# Background
-
-Graduating from university in 2012, the following years led me in various paths — from the freedom granted to travel the world through online poker to an office environment with a wide spectrum of responsibilities. At my last place of employment, I began figuring out how to automate monotonous tasks to make my coworkers and my own life easier. An enjoyable experience, that was the catalyst into taking that skill-set further — thus beginning my journey in programming.
 
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
