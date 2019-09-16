@@ -27,7 +27,7 @@ Having a varied professional background, I hope to leverage the different experi
 # Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Pac-Trump VR](https://github.com/Kaymo1990/PacTrumpVR) | Looking to put our learning skills to the test, we jumped into Unity and used an entirely new language (C#) to build a Pac-Man style game in VR with Trumps chasing you in the maze. | 2 weeks | C#, Unity, Android Studio, Google Cardboard SDK, Blender | Unity testrunner |
+| [Pac-Trump VR](https://github.com/Kaymo1990/PacTrumpVR) | Looking to put our learning skills to the test, a 5-man team jumped into Unity and used an entirely new language (C#) to build a Pac-Man style game in VR with Trumps chasing you in the maze. | 2 weeks | C#, Unity, Android Studio, Google Cardboard SDK, Blender | Unity testrunner |
 | [Charlie's Angels Acebook (Facebook)](https://github.com/Kaymo1990/acebook---CharliesAngels) | A team of 4 came together to recreate our own version of Facebook. The inception of the project was inspired by a team member's name (Charlie) and so we played on the design of the whole project around an angel theme. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI |
 | [Kay Cafe](https://github.com/Kaymo1990/Kays-Cafe) | A full-stack app I built which allows a user to enter an order from a cafe's menu, which can then calculate subtotals for receipts.  | 3 days |HTML/CSS, JavaScript | Jasmine  |
 
