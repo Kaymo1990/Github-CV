@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[About me ](#About me) |
+[Background ](#Background) |
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Experience ](#experience) |
@@ -17,7 +17,7 @@
 
 </div>
 
-# About me
+# Background
 
 I'm an alumnus of [Makers](https://makers.tech/), and a **full-stack Software Engineer**. I have a varied background, having worked most recently within the financial technology sector, as an equity specialist at [Bloomberg](https://www.bloomberg.com/europe/). Working within the financial technology sector is where I had come to learn I had a much stronger affinity towards the technology side of my work. Prior to this I completed the [Teach First leadership development program](https://www.teachfirst.org.uk/). This involved working in an underperforming academy as a science teacher for two years, in order to manage and raise aspirations of the students who come from lower socioeconomic backgrounds. Academically my background is within biological sciences with a MSc in biochemistry and BSc Hons in pharmacology, both from King's College London.
 
