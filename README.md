@@ -34,21 +34,21 @@ Having a varied professional background, I hope to leverage the different experi
 # Skills
 
 #### Client management
-I worked within the financial sales and analytics department at Bloomberg as an equity specialist. This role included proactive work, through organising visits to client offices.
+I worked within the **financial sales and analytics** department at **Bloomberg** as an **equity specialist**. This role included proactive work, through organising visits to client offices.
 The visits normally consisted of what the client's workflow looks like and how we can leverage the different products available to optimise their workflow.
-Clients with existing products may also report issues and improvements, therefore I would need to liaise with the developers to integrate these solutions. Through this approach I was able
-to win awards for my proactive work on product campaigns, in addition to winning a quarterly award for fastest client resolutions.
+Clients with existing products may also report issues and improvements, therefore I would need to liaise with the developers to integrate these **solutions**. Through this approach I was able
+to win awards for my proactive work on product campaigns, in addition to |**winning a quarterly award** for fastest client resolutions.
 
 #### Teaching and training
-During my time on the Teach First program, I was tasked with producing results which met government benchmarks for both my GCSE and A-level students.
-I was able to achieve this by having a strong mastery of the curriculum, in addition to an understanding of scientific pedagogy and learning psychology.
+During my time on the **Teach First Leadership Development Program**, I was tasked with producing results which met government benchmarks for both my **GCSE and A-level students**.
+I was able to achieve this by having a strong mastery of the curriculum, in addition to an understanding of **scientific pedagogy and learning psychology**.
 I designed lessons which ensured I could stiumulate engaging conversation whilst covering the syllabus, my lessons were inclusive of students of all abilities and needs.
-I was able to leverage the skills I built as a teacher within my role at Bloomberg, quickly being recognised for my ability to train clients and being requested to assist with sales visits and
+I was able to leverage the skills I built as a teacher within my role at Bloomberg, quickly being recognised for my ability to **train clients** and being requested to assist with sales visits and
 client trainings.
 
 #### Data analysis
-While supporting clients with their financial data models, I used both excel and a proporietary quantitative analysis platform within Bloomberg. I had to work with data packages and translate
-the client's models into either excel using a Bloomberg data API or build it within the platform. This included clients across all asset classes, however the majority of the work
+While supporting clients with their **financial data models**, I used both **excel** and a proporietary **quantitative analysis** platform within Bloomberg. I had to work with data packages and translate
+the client's models into either excel using a **Bloomberg data API** or build it within the platform. This included clients across all asset classes, however the majority of the work
 was supporting portfolio managers with data screening for equities.
 
 # Experience
@@ -101,5 +101,5 @@ CI/CD: Travis CI, Heroku
 
 # Interests
 * Breakdancing for fun and commercially (7 years).
-* Online strategy games
-* Marvel/DC Universe
+* Online strategy games.
+* Marvel/DC Universe.
