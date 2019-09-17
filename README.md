@@ -77,11 +77,11 @@ conduct and grade students for A-level practical examinations.
 * Agile Software Development
 * XP Values
 * TDD
-Languages: Ruby, Javascript (Jquery), HTML/CSS
-Web Frameworks: Sinatra, Ruby on Rails
-Databases: PostgreSQL, SQLite
-Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine, Unity Specrunner
-CI/CD: Travis CI, Heroku
+* Languages: Ruby, Javascript (Jquery), C#, HTML/CSS
+* Web Frameworks: Sinatra, Ruby on Rails
+* Databases: PostgreSQL, SQLite
+* Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine, Unity Testrunner, Nunit
+* CI/CD: Travis CI, Heroku
 
 ##### Canterbury Christ Church University (September 2016 - August 2017) 
 * PGCE Science - Pass (final review graded as Outstanding)
