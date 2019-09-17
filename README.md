@@ -29,33 +29,27 @@ Having a varied professional background, I hope to leverage the different experi
 |--|--|--|--|--|
 | [Pac-Trump VR](https://github.com/Kaymo1990/PacTrumpVR) | Looking to put our learning skills to the test, a 5-man team jumped into Unity and used an entirely new language (C#) to build a Pac-Man style game in VR with Trumps chasing you in the maze. | 2 weeks | C#, Unity, Android Studio, Google Cardboard SDK, Blender | Unity testrunner |
 | [Charlie's Angels Acebook (Facebook)](https://github.com/Kaymo1990/acebook---CharliesAngels) | A team of 4 came together to recreate our own version of Facebook. The inception of the project was inspired by a team member's name (Charlie) and so we played on the design of the whole project around an angel theme. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI |
-| [Kay Cafe](https://github.com/Kaymo1990/Kays-Cafe) | A full-stack app I built which allows a user to enter an order from a cafe's menu, which can then calculate subtotals for receipts.  | 3 days |HTML/CSS, JavaScript | Jasmine  |
+| [Kay Cafe](https://github.com/Kaymo1990/Kays-Cafe) | A full-stack app I built which allows a user to enter an order from a cafe's menu, which can then calculate subtotals for receipts.  | 1 week |HTML/CSS, JavaScript | Jasmine  |
 
 # Skills
 
-### Clean code advocate
+#### Client management
+I worked within the financial sales and analytics department at Bloomberg as an equity specialist. This role included proactive work, through organising visits to client offices.
+The visits normally consisted of what the client's workflow looks like and how we can leverage the different products available to optimise their workflow.
+Clients with existing products may also report issues and improvements, therefore I would need to liaise with the developers to integrate these solutions. Through this approach I was able
+to win awards for my proactive work on product campaigns, in addition to winning a quarterly award for fastest client resolutions.
 
-Makers shaped and facilitated my want to be a purveyor of clean code. Exercising programming principles such as SOLID and DRY, practicing usage of XP Values in group situations to ensure we were on the same wavelength, striking a fine balance between having an efficient and a readable codebase (for yourself as well as for others!) and using TDD/BDD to keep pesky bugs out of the way when that crafted code is pushed to production.
+#### Teaching and training
+During my time on the Teach First program, I was tasked with producing results which met government benchmarks for both my GCSE and A-level students.
+I was able to achieve this by having a strong mastery of the curriculum, in addition to an understanding of scientific pedagogy and learning psychology.
+I designed lessons which ensured I could stiumulate engaging conversation whilst covering the syllabus, my lessons were inclusive of students of all abilities and needs.
+I was able to leverage the skills I built as a teacher within my role at Bloomberg, quickly being recognised for my ability to train clients and being requested to assist with sales visits and
+client trainings.
 
-I truly believe in this approach to programming and coding and hope to work with others that respect it as much as I do.
-
-### Adaptability
-
-I consider myself a highly adaptive individual able to adjust based on the situation.
-
-Once I arrived to start my placement year in China with Goldwind, I found out during my onboarding process that I wasn't suited for the role they needed. I asked my superior if there was a purpose I _could_ fill in the department. Noticing a communication issue with a different member of staff and an international intern, I inquired if it would be appropriate for me to take care of the English speaking staff and escalate if necessary. It turned out to be a fruitful endeavour, creating a role for myself where I could use the skills I had and providing relief for an understaffed IT team.
-
-### Teamwork / Mediation
-
-I'm a true believer of the mantra that a productive team is one that can maintain the ability to work through the highs and the lows.
-
-For my first group project (recreating our rendition of AirBNB), we decided that the purpose of the week was to learn and to try to use new technologies. Morale fluctuated as we underestimated how difficult it would be to wrestle with these tech stacks. Running daily standups and retros, I ensured that our group kept our eyes on the objective we set when we started — our moods always better coming out of them than going in. I believe this helped us to keep focus of what we wanted out of the project whilst maintaining good group cohesion. Ultimately, at the end of the project, we came out deciding that we _did learn_ - hitting our objective.
-
-### Attention to detail
-
-I pride myself in ensuring that my craft is high quality and as error free as can be.
-
-During my group project 'Tasteless Notes', we successfully built our own testing framework but couldn't figure out how to output our pass/fail messages. Initially, we managed to come up with a workaround — but the original issue still surfaced with each message. Combing through our codebase and searching online for information, I noticed we weren't `return`ing the messages; implicitly implied in Ruby, not so in JavaScript. Amending this small keyword displayed our test results beautifully and allowed us to progress with peace of mind knowing we'd tackled the problem correctly.
+#### Data analysis
+While supporting clients with their financial data models, I used both excel and a proporietary quantitative analysis platform within Bloomberg. I had to work with data packages and translate
+the client's models into either excel using a Bloomberg data API or build it within the platform. This included clients across all asset classes, however the majority of the work
+was supporting portfolio managers with data screening for equities.
 
 # Experience
 
@@ -72,30 +66,33 @@ During my group project 'Tasteless Notes', we successfully built our own testing
 
 # Education
 
-#### Makers (Feb 2018 - May 2018)
+##### Makers Academy - Software development bootcamp (June 2019 - Sept 2019) 
+* Agile Software Development
+* XP Values
+* TDD
+Languages: Ruby, Javascript (Jquery), HTML/CSS
+Web Frameworks: Sinatra, Ruby on Rails
+Databases: PostgreSQL, SQLite
+Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine, Unity Specrunner
+CI/CD: Travis CI, Heroku
 
-- A neverending curiousity for coding and new technologies
-- Always aiming to sharpen my toolset & craft well-written, readable code
-- Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
+##### Canterbury Christ Church University (September 2016 - August 2017) 
+•PGCE Science - Pass (final review graded as Outstanding)
 
-    - Languages: Ruby, JavaScript (and jQuery), HTML/CSS
-    - Web Frameworks: Sinatra, Ruby on Rails, node.js/Express
-    - Databases: PostgreSQL
-    - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Mocha, Chai, Sinon
-    - CI/CD: Travis CI, CodeClimate, Heroku, AWS S3
+##### King's College London (September 2014 - September 2015) 
+•MSc Biomedical and Molecular Research - Pass with Merit
 
-#### University of Ulster, Jordanstown (2008 - 2012)
+##### King's College London (September 2010 - August 2013)
+•BSc Hons Pharmacology - Upper Second Class with Honours
 
-- BSc. (Hons) Computer Science — 2:1 obtained
-- Placement year was done abroad with no previous knowledge of Mandarin Chinese, having to quickly learn the fundamentals to improve communication with my colleagues and quality of life for myself
-
-#### University of Ulster, Jordanstown (2007 - 2008)
-
-- Foundation Year - Diploma in Industrial Studies — passed with Merit
+##### Campbell Harris College (Sept 2008 - July 2010) 
+•A level Chemistry - A <br>
+•A level Biology - A <br>
+•A level Mathematics - B <br>
+•A level English language and literature - B <br>
+•AS level Physics - B <br>
 
 # Interests
-
-* Exercise - Primarily into powerlifting, I also enjoy yoga, climbing and parkour.
-* Travelling/Exploring - Love travelling to new places, though I prefer exploring condensed urban spaces to the wild
-* Learning languages - Currently improving Vietnamese, Mandarin and Japanese all at varying rates of speed (read: not very quickly)
-* Playing fighting games on a competitive level (Street Fighter, Tekken)
+* Breakdancing for fun and commercially (7 years).
+* Online strategy games
+* Marvel/DC Universe
