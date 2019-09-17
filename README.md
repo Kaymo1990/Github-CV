@@ -53,16 +53,23 @@ was supporting portfolio managers with data screening for equities.
 
 # Experience
 
-**Spektrix** (London, England): Jun 2018 - Present  
-*Software Engineer*
+#### Bloomberg L.P. - LONDON, EC4N 4TQ (September 2018 - June 2019)
+Equity Specialist
 
-**Camseng International Foods Ltd.** (Belfast, N. Ireland): Jun 2015 - Feb 2018  
-*IT Support & Bookkeeper*
+* Supported implementation of Bloomberg Excel API across multiple hedge funds and helped clients build portfolios using proprietary software for strategy backtesting, leading to
+additional successful sales.
 
-**Professional Online Poker Player** (Various Locations): Aug 2012 - Nov 2014
+* Trained clients on using new software on-site and remotely, while building and managing relationships. This included analysis of their existing workflow and working alongside the client 
+to identify which products could be leveraged and supporting them with implementation and restructuring of their workflow.
 
-**Goldwind Science & Technology Co.** (Beijing, China): Sept 2010 - June 2011  
-*IT Support Intern*
+#### Walthamstow Academy / Teach First - LONDON, E17 5DP (September 2016 - August 2018)
+Teacher of Science
+
+* Taught KS3, GCSE (combined and triple science) and A-level biology to students, while upholding high expectations of behaviour, student aspirations and instilling British values.
+Subsequently graded as an outstanding teacher for my practice with positive feedback from Ofsted (2017) inspections.
+
+* Supported planning for GCSE and A-level lessons to meet curriculum specifications, while assuming head of biology duties. I completed all CPAC qualifications and was able to 
+conduct and grade students for A-level practical examinations.
 
 # Education
 
@@ -77,20 +84,20 @@ Testing Suites: Rspec, Capybara, Selenium-Webdriver, Jasmine, Unity Specrunner
 CI/CD: Travis CI, Heroku
 
 ##### Canterbury Christ Church University (September 2016 - August 2017) 
-•PGCE Science - Pass (final review graded as Outstanding)
+* PGCE Science - Pass (final review graded as Outstanding)
 
 ##### King's College London (September 2014 - September 2015) 
-•MSc Biomedical and Molecular Research - Pass with Merit
+* MSc Biomedical and Molecular Research - Pass with Merit
 
 ##### King's College London (September 2010 - August 2013)
-•BSc Hons Pharmacology - Upper Second Class with Honours
+* BSc Hons Pharmacology - Upper Second Class with Honours
 
 ##### Campbell Harris College (Sept 2008 - July 2010) 
-•A level Chemistry - A <br>
-•A level Biology - A <br>
-•A level Mathematics - B <br>
-•A level English language and literature - B <br>
-•AS level Physics - B <br>
+* A level Chemistry - A <br>
+* A level Biology - A <br>
+* A level Mathematics - B <br>
+* A level English language and literature - B <br>
+* AS level Physics - B <br>
 
 # Interests
 * Breakdancing for fun and commercially (7 years).
