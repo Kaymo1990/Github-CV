@@ -34,7 +34,7 @@ Having a varied professional background, I hope to leverage the different experi
 # Skills
 
 #### Technical flexibility
-I've trained at Makers Academy following **TDD** methodology, in addition to **AGILE** and **XP values**. My adaptability developed through working in a diverse range of industries which translated into developing projects in a range of different technologies, including **Ruby**, **Javascript** and **C#**. I have shown good practice when using TDD with an **external reviewer**, following a red-green-refactor cycle and making my code as clean and readable as possible. 
+I've trained at Makers Academy following **TDD** methodology, in addition to **AGILE** and **XP values**. My adaptability developed through working in a diverse range of industries which translated into developing projects in a range of different technologies, including **Ruby**, **Javascript** and **C#**. I have shown good practice when using TDD with an **external reviewer**, following a red-green-refactor cycle and making my code as clean and readable as possible. I've applied this flexibility to understanding different parts of the codebase to better understand the roles and reponsibilites of **our team** and allow better **delegation** of tasks.
 
 #### Client management
 I worked within the **financial sales and analytics** department at **Bloomberg** as an **equity specialist** which involved proactively organising visits to client offices.
