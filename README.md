@@ -7,7 +7,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 <a href="https://www.codewars.com/users/Kaymo1990">
-<img src="https://miro.medium.com/max/1760/1*W-OZsYSFMIJg_M-bPHH0-w.png" alt="codewars" hspace="50" height="42" width="42"></a></p>
+<img src="http://blog.bravi.com.br/wp-content/uploads/2017/01/codewarcs.fw_.png" alt="codewars" hspace="50" height="42" width="42"></a></p>
 
 <div align="center">
 
