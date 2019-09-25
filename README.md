@@ -41,8 +41,8 @@ I've trained at Makers Academy following **TDD** methodology, in addition to **A
 
 #### Client management
 I worked within the **financial sales and analytics** department at **Bloomberg** as an **equity specialist** which involved proactively organising visits to client offices.
-This consisted of what the client's workflow looks like and how we can leverage the different products available to optimise their workflow. I would need to liaise with the developers to integrate these **solutions** to feedback and bugs reported by clients during visits. Through this approach I was able
-to win awards for my proactive work on product campaigns, in addition to |**winning a quarterly award** for fastest client resolutions.
+This consisted of what the client's workflow looks like and how we can leverage the different products available to optimise their workflow. I would need to liaise with the developers to integrate these **solutions**, through feedback and bugs reported by clients during visits. Through this approach I was able
+to win awards for my proactive work on product campaigns, in addition to **winning a quarterly award** for fastest client resolutions.
 
 #### Teaching and training
 During my time on the **Teach First Leadership Development Program**, I was tasked with producing results which met government benchmarks for both my **GCSE and A-level students**.
