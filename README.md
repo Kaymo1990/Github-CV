@@ -1,5 +1,5 @@
 <h1 align="center">Khurram Mohammed (Kay) - Software Developer</h1>
-<p align="center">
+<p align="left">
 <a href="https://kaycoding.wordpress.com">
 <img src="https://s.w.org/style/images/about/WordPress-logotype-simplified.png" alt="medium" hspace="50" height="42" width="42"></a>
 
@@ -7,7 +7,7 @@
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
 <a href="https://www.codewars.com/users/Kaymo1990">
-<img src="http://blog.bravi.com.br/wp-content/uploads/2017/01/codewarcs.fw_.png" alt="codewars" hspace="50" height="42" width="42"></a></p>
+<img src="http://blog.bravi.com.br/wp-content/uploads/2017/01/codewarcs.fw_.png" alt="codewars" hspace="50" height="52" width="42"></a></p>
 
 <div align="center">
 
