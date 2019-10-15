@@ -31,8 +31,10 @@ Having a varied professional background, I hope to leverage the different experi
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Pac-Trump VR](https://github.com/Kaymo1990/PacTrumpVR) | Looking to put our learning skills to the test, a 5-man team jumped into Unity and used an entirely new language (C#) to build a Pac-Man style game in VR with Trumps chasing you in the maze. | 2 weeks | C#, Unity, Android Studio, Google Cardboard SDK, Blender | NUnit, Unity Testrunner |
-| [Charlie's Angels Acebook (Facebook)](https://github.com/Kaymo1990/acebook---CharliesAngels) [Heroku deployment](https://secure-harbor-32632.herokuapp.com)| A team of 4 came together to recreate our own version of Facebook. The inception of the project was inspired by a team member's name (Charlie) and so we played on the design of the whole project around an angel theme. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI |
-| [Kay Cafe](https://github.com/Kaymo1990/Kays-Cafe) [Github deployment](https://kaymo1990.github.io/Kays-Cafe/) | A full-stack app I built which allows a user to enter an order from a cafe's menu, which can then calculate subtotals for receipts.  | 1 week |HTML/CSS, JavaScript | Jasmine  |
+| [Charlie's Angels Acebook (Facebook)]
+(https://github.com/Kaymo1990/acebook---CharliesAngels) [Heroku deployment](https://secure-harbor-32632.herokuapp.com)| A team of 4 came together to recreate our own version of Facebook. The inception of the project was inspired by a team member's name (Charlie) and so we played on the design of the whole project around an angel theme. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI |
+| [Kay Cafe](https://github.com/Kaymo1990/Kays-Cafe) 
+[Github deployment](https://kaymo1990.github.io/Kays-Cafe/) | A full-stack app I built which allows a user to enter an order from a cafe's menu, which can then calculate subtotals for receipts.  | 1 week |HTML/CSS, JavaScript | Jasmine  |
 
 # Skills
 
