@@ -34,6 +34,7 @@ Having a varied professional background, I hope to leverage the different experi
 | [Charlie's Angels Acebook (Facebook)](https://github.com/Kaymo1990/acebook---CharliesAngels) [Heroku deployment](https://secure-harbor-32632.herokuapp.com)| A team of 4 came together to recreate our own version of Facebook. The inception of the project was inspired by a team member's name (Charlie) and so we played on the design of the whole project around an angel theme. | 2 weeks | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku | RSpec, Capybara, Travis CI |
 | [SimpleCrypto](https://github.com/Kaymo1990/CryptoProject) [Heroku deployment](https://hidden-cliffs-80375.herokuapp.com/) | An original full-stack web application using Coingecko API to get live pricing data and convert technical analysis into easy to understand statements for the average user  | 1 week |Ruby, Sinatra, HTML/CSS, Heroku | Capybara, Selenium-Webdriver, RSpec, Appveyor CI  |
 | [Kay Cafe](https://github.com/Kaymo1990/Kays-Cafe) [Github deployment](https://kaymo1990.github.io/Kays-Cafe/) | A full-stack app I built which allows a user to enter an order from a cafe's menu, which can then calculate subtotals for receipts.  | 1 week |HTML/CSS, JavaScript | Jasmine  |
+| [Kay Restaurant](https://github.com/Kaymo1990/KayRestaurantCSharp) | A console application connected to the Nexmo API which allows a user to select restaurant orders and receive a text receipt.  | 1 week | C#/.NET, Nexmo | NUnit, MOQ  |
 
 # Skills
 
