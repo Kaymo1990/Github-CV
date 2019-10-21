@@ -87,7 +87,7 @@ Research assistant
 
 * Followed strict good lab practice (GLP) and research methodology to contribute to the research group's research paper which was subsequently published in NCBI.
 
-![](stemcellkay.jpg)
+![](stemcellkay.png)
 
 # Education
 
