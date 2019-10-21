@@ -68,6 +68,8 @@ additional successful sales.
 * Trained clients on using new software on-site and remotely, while building and managing relationships. This included analysis of their existing workflow and working alongside the client 
 to identify which products could be leveraged and supporting them with implementation and restructuring of their workflow.
 
+![](bloombergkay.jpg)
+
 #### Walthamstow Academy / Teach First - LONDON, E17 5DP (September 2016 - August 2018)
 Teacher of Science
 
@@ -77,11 +79,15 @@ Subsequently graded as an outstanding teacher for my practice with positive feed
 * Supported planning for GCSE and A-level lessons to meet curriculum specifications, while assuming head of biology duties. I completed all CPAC qualifications and was able to 
 conduct and grade students for A-level practical examinations.
 
+![](tfkay.jpg)
+
 #### Centre for Stem Cells and Regenerative Medicine - LONDON SE1 9RT (January 2015 - December 2015)
 Research assistant
 * Tasked with developing a pipeline for filtering mouse embryonic fibroblasts (MEFs) from human induced pluripotent stem cell (hIPSCs) culture.
 
 * Followed strict good lab practice (GLP) and research methodology to contribute to the research group's research paper which was subsequently published in NCBI.
+
+![](stemcellkay.jpg)
 
 # Education
 
@@ -115,3 +121,8 @@ Research assistant
 * Breakdancing for fun and commercially (7 years).
 * Online strategy games.
 * Marvel/DC Universe.
+* Building Gundam/Gunpla
+
+![](bboykay.jpg)
+
+![](gundamkay.jpg)
