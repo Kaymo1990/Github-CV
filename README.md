@@ -11,6 +11,7 @@
 
 <div align="center">
 
+[Why Siftware Development? ](#Why Software Development?) |
 [Background ](#Background) |
 [Projects ](#projects) |
 [Skills ](#skills) |
@@ -19,6 +20,10 @@
 [Interests ](#interests)
 
 </div>
+
+# Why Software Development?
+
+I am approaching my 30s and had looked at my options of where I wanted to be until I retire, already having gained experience of various different industries. I had some exposure to coding through training in **Python** whilst at Bloomberg. I spoke to developers about the industry and started **self-learning** for about 6 months before taking the leap and investing into my future. I spoke to my managers, friends and family about how much I wanted to build scalable solutions that solve **real-world problems** and knew this is where I wanted to be. I have **LOVED** every moment of it, from seeing my tests passing all the way to seeing users interact with my applications. I continue to share my enthusiasm of the industry and motivate more people to continually look into software development as a long-term career or to at least give it a try with some coding exercises.
 
 # Background
 
