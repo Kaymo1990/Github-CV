@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[Why Siftware Development? ](#Why Software Development?) |
+[Motivation ](#Motivation?) |
 [Background ](#Background) |
 [Projects ](#projects) |
 [Skills ](#skills) |
